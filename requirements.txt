@@ -18,3 +18,4 @@ urllib3
 visitor
 Werkzeug
 WTForms
+gunicorn==20.1.0
